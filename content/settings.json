@@ -2,9 +2,9 @@
   "title": "boo-helpcenter",
   "url": "",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/boo-logo.svg",
+    "dark": "/boo-logo.svg"
   },
-  "github": "nuxt/content",
-  "twitter": "@nuxt_js"
+  "github": "",
+  "twitter": ""
 }

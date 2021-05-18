@@ -1,6 +1,5 @@
 ---
-title: Introduction
-description: ''
+title: Willkommen
 position: 1
 category: ''
 features:
@@ -9,14 +8,9 @@ features:
   - Feature 3
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
-
-[Module]() for [NuxtJS](https://nuxtjs.org).
-
 <alert type="success">
 
-Your documentation has been created successfully!
+boo hat jetzt eine Doku!
 
 </alert>
 
