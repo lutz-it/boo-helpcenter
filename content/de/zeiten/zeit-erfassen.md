@@ -1,7 +1,7 @@
 ---
 title: 'Zeiteintrag erfassen'
 description: ''
-position: 1
+position: 2
 category: 'Zeiten'
 startStopp:
   - Besuche das Dashboard
