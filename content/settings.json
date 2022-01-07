@@ -1,0 +1,10 @@
+{
+  "title": "boo-helpcenter",
+  "url": "https://booapp.eu",
+  "logo": {
+    "light": "/boo-logo.svg",
+    "dark": "/boo-logo.svg"
+  },
+  "github": "",
+  "twitter": ""
+}
