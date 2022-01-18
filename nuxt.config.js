@@ -12,12 +12,12 @@ export default theme({
         file: 'de-DE.js',
         name: 'Deutsch',
       },
-      {
-        code: 'en',
-        iso: 'en-US',
-        file: 'en-US.js',
-        name: 'English',
-      },
+      // {
+      //   code: 'en',
+      //   iso: 'en-US',
+      //   file: 'en-US.js',
+      //   name: 'English',
+      // },
     ],
     defaultLocale: 'de',
   },
