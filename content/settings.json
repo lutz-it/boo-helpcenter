@@ -1,10 +1,10 @@
 {
-  "title": "boo-helpcenter",
+  "title": "boo docs",
   "url": "https://booapp.eu",
   "logo": {
     "light": "/boo-logo.svg",
     "dark": "/boo-logo.svg"
   },
-  "github": "",
+  "github": "lutz-it/boo-helpcenter",
   "twitter": ""
 }
