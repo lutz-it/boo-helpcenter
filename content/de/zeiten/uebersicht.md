@@ -1,7 +1,7 @@
 ---
-title: Übersicht
+title: Übersicht Zeiten
 category: Zeiten
-position: 1
+position: 10
 ---
 
 <alert type="info">So sieht der "Lebenszyklus" eines Zeiteintrags aus.</alert>

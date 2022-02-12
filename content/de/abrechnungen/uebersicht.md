@@ -1,7 +1,7 @@
 ---
-title: Übersicht
+title: Übersicht Abrechnung
 category: Abrechnungen
-position: 3
+position: 30
 ---
 
 <alert type="info">So sieht der Lebenszyklus einer Abrechnung aus.</alert>
