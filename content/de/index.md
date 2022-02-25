@@ -15,4 +15,4 @@ Zu den folgenden Funktionen kannst du bereits jetzt Informationen nachlesen:
 
 ## Updates
 
-Wir entwickeln boo laufend weiter und passen die Web-App an die Anforderungen unserer Kund:innen an. Damit du auf dem aktuellen Stand bist, kannst du die letzten Änderungen in unserem [Changelog](/releases) nachlesen.
+Wir entwickeln boo laufend weiter und passen die Web-App an die Anforderungen unserer Kund:innen an. Damit du auf dem aktuellen Stand bist, kannst du die letzten Änderungen/Neuigkeiten in unserem [Changelog](/releases) (release notes) nachlesen.
